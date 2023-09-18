@@ -1,5 +1,6 @@
 {
     "name": "EDL21_1.3",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "mini2": "*",
